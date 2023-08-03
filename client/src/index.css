@@ -1,0 +1,11 @@
+
+.card_class:hover{
+  border: 10px solid rgb(254, 254, 254);
+ 
+}
+
+.slider img{
+  height: 450px;
+  object-fit: contain;
+}
+
